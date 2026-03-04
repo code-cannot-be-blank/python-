@@ -19,7 +19,6 @@ ehthumbs.db
 Thumbs.db
 
 # Editor
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -34,8 +33,6 @@ pids
 *.seed
 
 # Environment variables
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -51,3 +48,5 @@ __pycache__/
 
 # Generated reports
 reports/
+config.bat
+node_modules
